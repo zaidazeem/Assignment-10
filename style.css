@@ -1,0 +1,24 @@
+.upper{
+    height: 300px;
+    width: 300px;
+   border:2px solid black;
+    background-color: rgb(226, 174, 88);
+    position: absolute;
+    top: 150px;
+    left: 500px;
+ }
+ .a{
+    background-color: rgb(226, 174, 88);
+ }
+ .b{
+    background-color: rgb(60, 90, 163);
+    height: 100px;
+    width: 300px;
+    position:absolute;
+    top: 100px;
+ }
+ .c{
+    background-color: rgb(190, 0, 38);
+    height:100px;
+    width:300;
+ }
